@@ -1,0 +1,93 @@
+/* caratteristiche generali */
+body{
+    margin: 0;
+    background-color: rgb(235, 219, 232);
+}
+main,footer{
+    margin: 10px 8px 8px 8px;
+}
+.container{
+    width: 60%;
+    margin: auto;
+}
+
+/* caratteristiche header */
+.sfondo_intestazione_logo{
+    background-color: rgb(39, 158, 197);
+    background-image: url('../img/pattern.png');
+    margin: 0px;
+}
+.intestazione_logo{
+    padding: 100px 0px 0px 10px;
+    width: 300px;
+}
+
+/* caratteristiche del testo */
+.titolo_principale_articolo{
+    font-size: 40px;
+    font-weight: bold;
+}
+.sottotitolo_principale{
+    font-size: 20px;
+}
+.testo_grigio{
+    color: gray;
+}
+.testo_azzurro{
+    color: rgb(39, 158, 197);
+}
+.didascalia_foto{
+    font-size: 13px;
+}
+.testo_background_giallo{
+    background-color: yellow;
+}
+.testo_bianco{
+    color: white;
+}
+.riga_background_bianco{
+    background-color: white;
+}
+
+/* caratteristiche immagini */
+.immagine_iniziale_1{
+    width: 52%;
+}
+.immagine_iniziale_2{
+    width: 44%;
+}
+.immagine_footer_1{
+    background-image: url("../img/monitor.jpg");
+    height: 208px;
+    background-repeat: no-repeat;
+    padding: 20px 0 0 10px;
+}
+.immagine_footer_2{
+    background-image: url("../img/graph.jpg");
+    height: 207px;
+    background-repeat: no-repeat;
+    padding: 20px 0 0 10px;
+}
+
+/* caratteristiche lista */
+.lista_iniziale{
+    padding-left:15px;
+}
+
+/* caratteristiche tabella */
+.size_1_colonna_tabella{
+    width: 25%;
+}
+.size_2_colonna_tabella{
+    width: 50%;
+}
+.size_tabella{
+    width: 100%;
+    border-collapse: collapse;
+}
+.riga_background_blue{
+    background-color: rgb(10, 181, 238);
+}
+.riga_background_azzurro{
+    background-color: lightblue;
+}
