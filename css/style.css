@@ -2,7 +2,7 @@
 body{
     margin: 0;
 }
-main{
+main,footer{
     margin: 10px 8px 8px 8px;
 }
 
@@ -47,6 +47,18 @@ main{
 }
 .immagine_iniziale_2{
     width: 44%;
+}
+.immagine_footer_1{
+    background-image: url("../img/monitor.jpg");
+    height: 208px;
+    background-repeat: no-repeat;
+    padding: 20px 0 0 10px;
+}
+.immagine_footer_2{
+    background-image: url("../img/graph.jpg");
+    height: 207px;
+    background-repeat: no-repeat;
+    padding: 20px 0 0 10px;
 }
 
 /* caratteristiche lista */
