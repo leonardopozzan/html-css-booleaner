@@ -1,0 +1,33 @@
+/* caratteristiche generali */
+*{
+    margin: 0;
+}
+main{
+    margin: 10px 8px 8px 8px;
+}
+
+/* caratteristiche header */
+.sfondo_intestazione_logo{
+    background-color: rgb(39, 158, 197);
+    background-image: url('../img/pattern.png');
+    margin: 0px;
+}
+.intestazione_logo{
+    padding: 100px 0px 0px 10px;
+    width: 300px;
+}
+
+/* caratteristiche del testo */
+.titolo_principale_articolo{
+    font-size: 40px;
+    font-weight: bold;
+}
+.sottotitolo_principale{
+    font-size: 20px;
+}
+.testo_grigio{
+    color: gray;
+}
+.testo_azzurro{
+    color: rgb(39, 158, 197);
+}
