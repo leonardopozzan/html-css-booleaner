@@ -1,5 +1,5 @@
 /* caratteristiche generali */
-*{
+body{
     margin: 0;
 }
 main{
@@ -30,4 +30,18 @@ main{
 }
 .testo_azzurro{
     color: rgb(39, 158, 197);
+}
+.didascalia_foto{
+    font-size: 13px;
+}
+.testo_background_giallo{
+    background-color: yellow;
+}
+
+/* caratteristiche immagini */
+.immagine_iniziale_1{
+    width: 52%;
+}
+.immagine_iniziale_2{
+    width: 44%;
 }
