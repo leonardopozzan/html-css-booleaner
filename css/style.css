@@ -37,6 +37,9 @@ main{
 .testo_background_giallo{
     background-color: yellow;
 }
+.testo_bianco{
+    color: white;
+}
 
 /* caratteristiche immagini */
 .immagine_iniziale_1{
@@ -44,4 +47,27 @@ main{
 }
 .immagine_iniziale_2{
     width: 44%;
+}
+
+/* caratteristiche lista */
+.lista_iniziale{
+    padding-left:15px;
+}
+
+/* caratteristiche tabella */
+.size_1_colonna_tabella{
+    width: 25%;
+}
+.size_2_colonna_tabella{
+    width: 50%;
+}
+.size_tabella{
+    width: 100%;
+    border-collapse: collapse;
+}
+.riga_background_blue{
+    background-color: rgb(10, 181, 238);
+}
+.riga_background_azzurro{
+    background-color: lightblue;
 }
